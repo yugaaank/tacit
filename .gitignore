@@ -1,0 +1,12 @@
+# Generated theme (built dynamically)
+zed/themes/Tacit.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
